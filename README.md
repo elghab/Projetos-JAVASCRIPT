@@ -1,0 +1,1 @@
+Aqui está meus primeiros passos com a Linguagem de auto nivel JavaScript. Ainda tenho um longo caminho a percorrer, mas estou me dedicando cada vez mais em meus estudos de programação!
