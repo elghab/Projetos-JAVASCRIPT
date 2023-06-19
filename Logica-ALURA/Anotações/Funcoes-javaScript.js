@@ -1,6 +1,6 @@
 //Funções de Array
-array.forEach()
-array.map()
+array.forEach() //Permite percorrer os elementos de um array e realizar uma operação em cada um deles.
+array.map() //
 array.filter()
 array.sort()
 array.reduce()
